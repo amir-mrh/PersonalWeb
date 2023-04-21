@@ -1,0 +1,52 @@
+.overlay {
+    width: 0%;
+    height: 100%;
+    background-color: rgba(3, 127, 255, .2);
+    position: absolute;
+}
+
+.listItem:hover .overlay {
+    width: 100%;
+    transition: .5s;
+}
+
+.listItem:hover .listItemText {
+    color: #007BFF !important;
+    transition: .5s;
+}
+
+.line1 {
+    width: 1px;
+    min-height: 100%;
+    background-color: rgba(46, 52, 78, .3);
+    position: absolute;
+    left: 20%;
+    z-index: -1;
+}
+
+.line2 {
+    width: 1px;
+    min-height: 100%;
+    background-color: rgba(46, 52, 78, .3);
+    position: absolute;
+    left: 40%;
+    z-index: -1;
+}
+
+.line3 {
+    width: 1px;
+    min-height: 100%;
+    background-color: rgba(46, 52, 78, .3);
+    position: absolute;
+    left: 60%;
+    z-index: -1;
+}
+
+.line4 {
+    width: 1px;
+    min-height: 100%;
+    background-color: rgba(46, 52, 78, .3);
+    position: absolute;
+    left: 80%;
+    z-index: -1;
+}

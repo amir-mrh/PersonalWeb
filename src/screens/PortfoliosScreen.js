@@ -34,7 +34,7 @@ export default function PortfoliosScreen() {
                         title={portfolio.title}
                         desc={portfolio.desc}
                         image={portfolio.image}
-                        href="https://reactdeveloper.ir" />
+                        href="#" />
                 )}
             </Grid>
         </div>

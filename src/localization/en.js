@@ -56,7 +56,6 @@ export default {
     mobile2: '+98-935 8 207 405',
     addressDetails: 'Iran, Alborz, Karaj, Baraghan Street, Emam Sajjad Street, 209 Yazdani Alley',
     portfoliosList: [
-        { id: 1, title: 'Loran_C TDE Correction', desc: 'Accurate prediction of time series in the Loran_C ground-based system (Python)', image: 'https://d3i71xaburhd42.cloudfront.net/c750b0834c857b24b110bd3f051533ec1b1cfae3/2-Figure1-1.png' },
         { id: 2, title: 'Shoes Shopping', desc: 'Shoes Shopping website (React JS)', image: 'https://cdn-icons-png.flaticon.com/512/2742/2742830.png' },
         { id: 3, title: 'Mikhak System', desc: 'Integrated Consular Services Management System', image: 'https://www.hamrahmoshaver.com/upload/articles/big/1884025465%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%85%DB%8C%D8%AE%DA%A9.jpg' },
         { id: 4, title: 'LIMA', desc: 'Memorable moments of Iranian music', image: 'https://avayefarda.com/wp-content/uploads/2020/09/photo_2020-09-14_20-36-33.jpg' },

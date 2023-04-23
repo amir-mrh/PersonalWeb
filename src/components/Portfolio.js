@@ -66,9 +66,8 @@ export default function Portfolio({ image, title, desc, href }) {
     return (
         <>
             <Grid item lg={4} className={classes.root}>
-                {/* <img onClick={() => setOpen(true)} */}
                 <div className={classes.imagediv} >
-                    <img className={classes.image} src={image} alt={title} />
+                    <img className={classes.image} src={image} alt={title} onClick={() => setOpen(true)}  />
                 </div>
                 <Typography className={classes.title} variant="h5">
                     <a href={href}>{title}</a>

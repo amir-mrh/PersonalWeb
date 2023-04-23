@@ -56,7 +56,6 @@ export default {
     mobile2: '09358207405',
     addressDetails: 'کرج - خیابان برغان - خیابان امام سجاد - کوچه شهید یزدانی - پلاک 209',
     portfoliosList: [
-        { id: 1, title: 'تصحیح خطای سامانه لورن-سی', desc: 'پیشگوئی دقیق سری‌های زمانی در سامانه زمین پایه لورن_سی (Python)', image: 'https://d3i71xaburhd42.cloudfront.net/c750b0834c857b24b110bd3f051533ec1b1cfae3/2-Figure1-1.png' },
         { id: 2, title: 'فروشگاه کفش', desc: 'وب سایت فروشگاه آنلاین کفش (React JS)', image: 'https://cdn-icons-png.flaticon.com/512/2742/2742830.png' },
         { id: 3, title: 'سامانه میخک', desc: 'سامانه مدیریت یکپارچه خدمات کنسولی', image: 'https://www.hamrahmoshaver.com/upload/articles/big/1884025465%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87-%D9%85%DB%8C%D8%AE%DA%A9.jpg' },
         { id: 4, title: 'لیما', desc: 'لحظه‌های یادماندنی موسیقی ایران', image: 'https://avayefarda.com/wp-content/uploads/2020/09/photo_2020-09-14_20-36-33.jpg' },
